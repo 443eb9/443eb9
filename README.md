@@ -12,6 +12,8 @@ Currently, Rust 🦀 is my favorite language. It runs fast, is memory-safe, and 
 
 I aspire to become a full-stack open-source game developer in the future. Besides coding, I'm also delving into painting and *planning* to learn cloth/building designing and music composition.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=443eb9)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=443eb9)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=443eb9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### *共勉*
